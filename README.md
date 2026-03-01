@@ -1,4 +1,4 @@
-# ngSkinTools-2.4---Custom-Hotkey-Patch---Anti-Reset-hotkey-New-Features  
+# ngSkinTools-2.4 --- Custom-Hotkey-Patch --- Anti-Reset-hotkey-New-Features  
 ngSkinTools 2.4: Fully compatible with Maya Hotkey Editor for easy customization. A productivity boost for 3D Rigging Artists by Van Tan Phan.  
 
 ------------------------------------------------------------------------
