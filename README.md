@@ -11,7 +11,7 @@ Anti-Reset: Prevents the plugin from wiping your custom hotkeys on startup.
 New Hotkeys: Added Toggle Influences display (A), hot key for Toogle paint tool (Alt P), Mirror (C), Cycle Modes (M), and Cycle Shapes (N).  
 Easy Customization: You can change any shortcut directly in the Maya Hotkey Editor without touching the code.  
 
-📖 How to Install:  
+🛠️ How to Install:  
 Go to:  
 C:\ProgramData\Autodesk\ApplicationPlugins\ngskintools2\Contents\scripts\ngSkinTools2\ui\  
 
@@ -24,7 +24,7 @@ Restart Maya and enjoy!
 🇻🇳 TIẾNG VIỆT:  
 Bản Mod này được thực hiện bởi Phan Văn Tân, giải quyết triệt để lỗi reset phím tắt của ngSkinTools 2.4.
 
-✨ Tính năng:
+🚀 Tính năng:
 Chống Reset: Plugin sẽ không tự xóa phím tắt của bạn mỗi khi mở Maya.  
 Phím tắt mới: Đã gán sẵn các phím: Hiển thị Influence (A), phím tắt cho Toogle paint tool (Alt P), Mirror (C), Cycle Mode (M), Cycle Shape (N).  
 Tự do thay đổi: Bạn có thể đổi phím tắt thoải mái trong Maya Hotkey Editor, không cần động vào code.  
