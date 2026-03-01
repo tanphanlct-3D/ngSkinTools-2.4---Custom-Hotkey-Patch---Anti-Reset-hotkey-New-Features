@@ -17,7 +17,14 @@ C:\ProgramData\Autodesk\ApplicationPlugins\ngskintools2\Contents\scripts\ngSkinT
 
 ⚠️ **Back up:** Copy your original hotkeys_setup.py to a safe place.  
 **Overwrite:** Download this file (hotkeys_setup.py) and paste it into the folder above.  
-Restart Maya and enjoy!
+Restart Maya and enjoy!  
+
+## ❤️ Support the Author / Ủng hộ tác giả
+* **PayPal:** Please send money directly to my email: **tanphan.lct@gmail.com**
+* **Vietnamese Bank Transfer:**
+  * Bank: **BIDV**
+  * Account Number: **5510425104**
+  * Account Name: **PHAN VAN TAN**
 
 ------------------------------------------------------------------------
 
