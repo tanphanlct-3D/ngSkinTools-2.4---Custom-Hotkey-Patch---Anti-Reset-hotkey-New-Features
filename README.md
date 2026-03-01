@@ -1,5 +1,5 @@
 # ngSkinTools-2.4---Custom-Hotkey-Patch---Anti-Reset-hotkey-New-Features
-ngSkinTools 2.4 Custom Hotkey Patch: Fixes the annoying startup hotkey reset bug in Maya. Added new shortcuts: Toggle Influences (A), Paint Tool (Alt+P), Mirror (C), Cycle Modes (M), and Cycle Shapes (N). Fully compatible with Maya Hotkey Editor for easy customization. A productivity boost for 3D Rigging Artists by Phan Van Tan.
+ngSkinTools 2.4 Custom Hotkey Patch: Fully compatible with Maya Hotkey Editor for easy customization. A productivity boost for 3D Rigging Artists by Van Tan Phan.
 ===========================================================
 .
 🇺🇸 ENGLISH
