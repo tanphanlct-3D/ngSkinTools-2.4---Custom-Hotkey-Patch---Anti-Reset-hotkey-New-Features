@@ -12,7 +12,8 @@ New Hotkeys: Added Toggle Influences display (A), hot key for Toogle paint tool 
 Easy Customization: You can change any shortcut directly in the Maya Hotkey Editor without touching the code.
 📖 How to Install:
 
-Go to: C:\ProgramData\Autodesk\ApplicationPlugins\ngskintools2\Contents\scripts\ngSkinTools2\ui\
+Go to:
+C:\ProgramData\Autodesk\ApplicationPlugins\ngskintools2\Contents\scripts\ngSkinTools2\ui\
 Back up: Copy your original hotkeys_setup.py to a safe place.
 Overwrite: Download this file and paste it into the folder above.
 Restart Maya and enjoy!
