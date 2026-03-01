@@ -1,7 +1,8 @@
 # ngSkinTools-2.4---Custom-Hotkey-Patch---Anti-Reset-hotkey-New-Features
-ngSkinTools 2.4 Custom Hotkey Patch: Fully compatible with Maya Hotkey Editor for easy customization. A productivity boost for 3D Rigging Artists by Van Tan Phan.
+ngSkinTools 2.4: Fully compatible with Maya Hotkey Editor for easy customization. A productivity boost for 3D Rigging Artists by Van Tan Phan.
+
 ------------------------------------------------------------------------
-.
+
 🇺🇸 ENGLISH: 
 This script is a modified hotkeys_setup.py for ngSkinTools 2.4. It stops the plugin from resetting your hotkeys and adds professional features.
 
@@ -14,8 +15,9 @@ Easy Customization: You can change any shortcut directly in the Maya Hotkey Edit
 
 Go to:
 C:\ProgramData\Autodesk\ApplicationPlugins\ngskintools2\Contents\scripts\ngSkinTools2\ui\
+
 Back up: Copy your original hotkeys_setup.py to a safe place.
-Overwrite: Download this file and paste it into the folder above.
+Overwrite: Download this file (hotkeys_setup.py) and paste it into the folder above.
 Restart Maya and enjoy!
 
 ------------------------------------------------------------------------
@@ -31,6 +33,6 @@ Tự do thay đổi: Bạn có thể đổi phím tắt thoải mái trong Maya 
 🛠️ Cách cài đặt:
 
 Truy cập: C:\ProgramData\Autodesk\ApplicationPlugins\ngskintools2\Contents\scripts\ngSkinTools2\ui\
-Lưu ý: Copy file hotkeys_setup.py gốc ra một chỗ khác để dự phòng trước khi làm bước tiếp theo.
-Ghi đè: Tải file này về và dán đè vào thư mục trên.
+Lưu ý: Copy file hotkeys_setup.py gốc ra một chỗ khác để dự phòng trước khi làm bước tiếp theo. (hoặc để tên có đuôi copy, mặc định là file dự phòng)
+Ghi đè: Tải file này về và dán đè vào thư mục trên. (hotkeys_setup.py)
 Khởi động lại Maya là xong!
