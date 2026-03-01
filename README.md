@@ -17,9 +17,9 @@ C:\ProgramData\Autodesk\ApplicationPlugins\ngskintools2\Contents\scripts\ngSkinT
 Back up: Copy your original hotkeys_setup.py to a safe place.
 Overwrite: Download this file and paste it into the folder above.
 Restart Maya and enjoy!
-.
+
 ------------------------------------------------------------------------
-.
+
 🇻🇳 TIẾNG VIỆT: 
 Bản Mod này được thực hiện bởi Phan Văn Tân, giải quyết triệt để lỗi reset phím tắt của ngSkinTools 2.4.
 
